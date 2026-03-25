@@ -2,10 +2,11 @@ cff-version: 1.2.0
 title: "WNV Activity"
 message: "If you use this software, please cite it using the metadata below."
 type: software
+version: "1.0.0"
 authors:
   - family-names: "Bliss" 
     given-names: "Desiree"
-    # orcid: "https://orcid.org/0000-0003-0690-8688" 
+    orcid: "https://orcid.org/0000-0003-0690-8688" 
 repository-code: "https://github.com/desireeka93/WNV-Activity"
 abstract: "Random forest models for West Nile Virus activity in urban mosquito populations using land cover classification (LCZ) and land surface temperature (LST) predictors."
 keywords:
